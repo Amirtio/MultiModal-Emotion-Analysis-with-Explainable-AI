@@ -346,8 +346,7 @@ We welcome contributions! Please:
 ---
 
 ## 👥 Team & Contributors
-
-- **Amirreza Navali** - *Initial Concept, Model Training & Core Logic* - [@amirtio](https://github.com/amirtio)
+- **zahra seraji** - *Initial Concept, Model Training & Core Logic* - [@zahraseraji2o](https://github.com/zahraseraji2o)
 
 We collaborated on all aspects of the project, from brainstorming to final implementation.
 
