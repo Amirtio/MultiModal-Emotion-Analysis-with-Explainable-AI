@@ -1,0 +1,44 @@
+# Core Deep Learning Frameworks
+torch==2.8.0
+torchvision==0.23.0
+torchaudio==2.8.0
+transformers==4.55.4
+
+# Computer Vision & Image Processing
+opencv-python==4.12.0.88
+Pillow==11.3.0
+
+# Data Science & Numerical Computing
+numpy==2.0.2
+pandas==2.2.2
+scipy==1.16.1
+scikit-learn==1.6.1
+scikit-image==0.25.2
+
+# Visualization
+matplotlib==3.10.0
+seaborn==0.13.2
+plotly
+
+# Audio Processing
+librosa
+soundfile
+
+# Explainable AI
+lime==0.2.0.1
+shap==0.48.0
+grad-cam==1.5.5
+pytorch-gradcam==0.2.1
+
+# Web Interface
+gradio==5.43.1
+
+# Additional ML Libraries
+datasets
+accelerate
+
+# Utilities
+tqdm==4.67.1
+requests==2.32.4
+pyyaml==6.0.2
+packaging==25.0
